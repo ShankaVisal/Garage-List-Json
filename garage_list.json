@@ -1,0 +1,63 @@
+[
+    {
+      "name": "AutoCare Colombo",
+      "latitude": 6.9271,
+      "longitude": 79.8612,
+      "phone": "+94771234567"
+    },
+    {
+      "name": "Super Auto Garage - Kandy",
+      "latitude": 7.2906,
+      "longitude": 80.6337,
+      "phone": "+94775678901"
+    },
+    {
+      "name": "Jaffna Auto Repairs",
+      "latitude": 9.6615,
+      "longitude": 80.0255,
+      "phone": "+94772345678"
+    },
+    {
+      "name": "Galle Vehicle Service",
+      "latitude": 6.0326,
+      "longitude": 80.2168,
+      "phone": "+94773456789"
+    },
+    {
+      "name": "Matara Auto Works",
+      "latitude": 5.9549,
+      "longitude": 80.5549,
+      "phone": "+94774567890"
+    },
+    {
+      "name": "Kurunegala Car Fix",
+      "latitude": 7.4863,
+      "longitude": 80.3623,
+      "phone": "+94775678912"
+    },
+    {
+      "name": "Negombo Auto Clinic",
+      "latitude": 7.2083,
+      "longitude": 79.8358,
+      "phone": "+94776789012"
+    },
+    {
+      "name": "Ratnapura Auto Solutions",
+      "latitude": 6.7056,
+      "longitude": 80.3847,
+      "phone": "+94777890123"
+    },
+    {
+      "name": "Anuradhapura Car Care",
+      "latitude": 8.3121,
+      "longitude": 80.4131,
+      "phone": "+94778901234"
+    },
+    {
+      "name": "Batticaloa Auto Fix",
+      "latitude": 7.7175,
+      "longitude": 81.6924,
+      "phone": "+94779012345"
+    }
+  ]
+  
