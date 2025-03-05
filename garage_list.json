@@ -1,4 +1,5 @@
-[
+{
+  "garages": [
     {
       "name": "AutoCare Colombo",
       "latitude": 6.9271,
@@ -60,4 +61,4 @@
       "phone": "+94779012345"
     }
   ]
-  
+}
