@@ -72,7 +72,7 @@
       "longitude": 80.0706646,
       "phone": "+94777123456"
     },
-     {
+    {
       "name": "Garage, SUSL",
       "latitude": 6.7141,
       "longitude": 80.7903,
@@ -83,6 +83,12 @@
       "latitude": 6.7175,
       "longitude": 80.3833,
       "phone": "+94452255025"
+    },
+    {
+      "name": "Madusanka Service Center",
+      "latitude": 6.7160,
+      "longitude": 80.7890,
+      "phone": "+94765816855"
     },
     {
       "name": "Jayasiri Auto Parts (Pvt) Ltd",
