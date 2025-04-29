@@ -139,10 +139,16 @@
       "phone": "+94775561680"
     },   
     {
-      "name": "DAgrarian Service Center Pambahinna",
+      "name": "Dagrarian Service Center Pambahinna",
       "latitude": 6.8160,
       "longitude": 81.7890,
-      "phone": "+94765816855"
+      "phone": "+94768816855"
+    },
+    {
+      "name": "Tharanga Service station",
+      "latitude": 6.7111,
+      "longitude": 80.7903,
+      "phone": "+94765814855"
     }
   ]
 }
