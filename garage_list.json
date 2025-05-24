@@ -259,6 +259,106 @@
       "services": ["Routine Maintenance", "Engine Diagnostics", "Tire Rotation", "Brake Service"],
       "address": "Service Lane, Belihuloya, Sabaragamuwa Province",
       "description": "Suresh Service Station is a trusted center for routine auto maintenance and fast repairs, ensuring minimal downtime for your vehicle."
+    },
+        {
+      "name": "AutoCare Colombo",
+      "latitude": 6.9271,
+      "longitude": 79.8612,
+      "phone": "+94771234567",
+      "garageType": "Car & Hybrid",
+      "services": ["Oil Change", "Engine Diagnostics", "Brake Service", "AC Repair"],
+      "address": "45 Galle Road, Colombo 03, Western Province",
+      "description": "AutoCare Colombo offers premium hybrid and car maintenance with expert mechanics and rapid diagnostics services in the heart of Colombo."
+    },
+    {
+      "name": "Colombo Motor Hub",
+      "latitude": 6.9157,
+      "longitude": 79.8636,
+      "phone": "+94770011223",
+      "garageType": "Car & Van",
+      "services": ["Oil Change", "Engine Diagnostics", "Body Repair", "Wheel Alignment"],
+      "address": "12 Duplication Road, Colombo 04, Western Province",
+      "description": "Colombo Motor Hub is known for high-end car servicing and body repairs using the latest diagnostic technology."
+    },
+    {
+      "name": "Kelaniya Auto Service",
+      "latitude": 6.9553,
+      "longitude": 79.9220,
+      "phone": "+94778889900",
+      "garageType": "Car & Hybrid",
+      "services": ["Engine Repair", "Battery Service", "Hybrid System Check", "Paint Jobs"],
+      "address": "55 Kandy Road, Kelaniya, Western Province",
+      "description": "Kelaniya Auto Service specializes in hybrid vehicle repairs and offers affordable rates for regular car maintenance."
+    },
+    {
+      "name": "Battaramulla Auto Care",
+      "latitude": 6.9067,
+      "longitude": 79.9528,
+      "phone": "+94771122334",
+      "garageType": "Car & SUV",
+      "services": ["AC Service", "Brake Service", "Full Service", "Interior Detailing"],
+      "address": "89 Parliament Road, Battaramulla, Western Province",
+      "description": "Battaramulla Auto Care provides expert SUV servicing and detailing, popular among city drivers."
+    },
+    {
+      "name": "Nugegoda Car Clinic",
+      "latitude": 6.8720,
+      "longitude": 79.8993,
+      "phone": "+94772233445",
+      "garageType": "Car & Jeep",
+      "services": ["Oil Change", "Gearbox Repair", "Brake Pads Replacement", "AC Repair"],
+      "address": "102 High Level Road, Nugegoda, Western Province",
+      "description": "Nugegoda Car Clinic offers fast and affordable car repairs with a loyal local customer base."
+    },
+    {
+      "name": "Moratuwa Auto Fix",
+      "latitude": 6.7724,
+      "longitude": 79.8816,
+      "phone": "+94773344556",
+      "garageType": "Car & Van",
+      "services": ["Suspension Repair", "Engine Diagnostics", "Full Service", "Exterior Detailing"],
+      "address": "67 Galle Road, Moratuwa, Western Province",
+      "description": "Moratuwa Auto Fix provides professional vehicle servicing and is well-known for thorough engine work."
+    },
+    {
+      "name": "Galle Vehicle Service",
+      "latitude": 6.0326,
+      "longitude": 80.2168,
+      "phone": "+94773456789",
+      "garageType": "Car & Truck",
+      "services": ["General Service", "Oil Change", "Gearbox Repair", "Full Body Wash"],
+      "address": "205 Matara Road, Galle, Southern Province",
+      "description": "Located near the highway, Galle Vehicle Service caters to both light and heavy vehicles with comprehensive servicing and cleaning."
+    },
+    {
+      "name": "Wattala Auto Works",
+      "latitude": 6.9810,
+      "longitude": 79.8920,
+      "phone": "+94774455667",
+      "garageType": "Car & Hybrid",
+      "services": ["Battery Replacement", "AC Service", "Engine Diagnostics", "Brake Service"],
+      "address": "34 Negombo Road, Wattala, Western Province",
+      "description": "Wattala Auto Works is favored for quick hybrid car repairs and reliable general servicing."
+    },
+    {
+      "name": "Ja-Ela Garage Center",
+      "latitude": 7.0770,
+      "longitude": 79.8912,
+      "phone": "+94775566778",
+      "garageType": "Car & Van",
+      "services": ["Oil Change", "Brake Repair", "Interior Cleaning", "Hybrid Service"],
+      "address": "21 Main Street, Ja-Ela, Western Province",
+      "description": "Ja-Ela Garage Center provides both car and van services, known for attention to detail and hybrid system expertise."
+    },
+    {
+      "name": "Super Auto Garage - Kandy",
+      "latitude": 7.2906,
+      "longitude": 80.6337,
+      "phone": "+94775678901",
+      "garageType": "Car & Motorbike",
+      "services": ["Engine Tuning", "Tire Replacement", "Battery Check", "Suspension Work"],
+      "address": "82 Peradeniya Road, Kandy, Central Province",
+      "description": "Known for fast service and reliable repairs, Super Auto Garage in Kandy specializes in both motorbike and car repairs with modern tools."
     }
   ]
 }
